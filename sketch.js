@@ -56,7 +56,7 @@ var playState = 0;
 function preload(){
     //load Images here
 
-    cancel_img = loadImage("Images/cancelimage.png")
+   // cancel_img = loadImage("Images/cancelimage.png")
 }
 
 function setup(){
